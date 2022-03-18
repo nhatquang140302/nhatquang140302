@@ -9,4 +9,4 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Facabook](https://www.facebook.com/quangcutequadiha) [Gmail](mailto:shnquang02@gmail.com)
 
-⭐️ From [Dương Vương](https://github.com/nhatquang140302) ❤️❤️❤️
+⭐️ From [Nhật Quang](https://github.com/nhatquang140302) ❤️❤️❤️
