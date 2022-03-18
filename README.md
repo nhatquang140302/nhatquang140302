@@ -7,6 +7,6 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 🔭 I’m currently a CS student at Can Tho University
 - 📚 I’m currently learning frontend web development using HTML, CSS, JS and ReactJs.
 - 👯 I’m looking for a software development internship. 
-- 📫 How to reach me: [Facabook](https://www.facebook.com/quangcutequadiha) [Gmail](mailto:shnquang02@gmail.com)
+- 📫 How to reach me: [Facabook](https://www.facebook.com/quangcutequadiha) [Gmail](mailto:shnquang02@gmail.com) [Linkedln](https://www.linkedin.com/in/s%C6%A1n-hu%E1%BB%B3nh-nh%E1%BA%ADt-quang-070bb121a/)
 
 ⭐️ From [Nhật Quang](https://github.com/nhatquang140302) ❤️❤️❤️
